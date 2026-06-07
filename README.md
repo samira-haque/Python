@@ -171,4 +171,4 @@ This project is available for educational purposes.
 
 ---
 
-### Happy Coding! 🚀🐍
+### Happy Coding! 🐍
